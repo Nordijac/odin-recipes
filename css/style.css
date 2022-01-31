@@ -4,7 +4,19 @@ body{
 div.main{
     width:920px;
     border:1px solid grey;
-    margin:0 auto;
+    padding:10px;
+}
+div.mainWrapper{
+    display:flex;
+    justify-content: center;
+}
+
+.mainPageHeader{
+    display:flex;
+    justify-content: center;
+}
+div.main > h1{
+    text-align: center;
 }
 div.finishedDish img{
     height:200px;
