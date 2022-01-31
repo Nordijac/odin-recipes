@@ -1,0 +1,12 @@
+body{
+    background:#e3e3e3;
+}
+div.main{
+    width:920px;
+    border:1px solid grey;
+    margin:0 auto;
+}
+div.finishedDish img{
+    height:200px;
+    width:250px;
+}
